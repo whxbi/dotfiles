@@ -1,0 +1,9 @@
+# --- Theme & Background ---
+background = #1e1e2e
+foreground = #cdd6f4
+background-opacity = 0.7
+background-blur = true
+
+# --- Window Decorations ---
+window-decoration = none
+gtk-titlebar = false
